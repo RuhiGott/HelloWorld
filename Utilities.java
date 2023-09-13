@@ -1,15 +1,8 @@
 public class Utilities{
-  public static void printHello(String str){
-    if (str.equalsIgnoreCase("hello")){
-      System.out.println("hello, world!");
+  public static void printHello(String input){
+    if (input.equalsIgnoreCase("Hello"){
+      System.out.println("Hello World");
     }
-
-    else if (str.equalsIgnoreCase("goodbye")) {
-      System.out.println("goodbye, cruel world");
-    }
-
-    else{
-      System.out.println("other message");
-    }
-  }
+    else {
+      System.out.println("Goodbye World");
 }
