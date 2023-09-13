@@ -5,5 +5,4 @@ public class Utilities{
     }
     else {
       System.out.println("Goodbye World");
-  }
 }
