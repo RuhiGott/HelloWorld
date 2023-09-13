@@ -1,5 +1,5 @@
 public class Utilities{
   public static void printHello(){
-    System.out.println("Hellow ord");
+    System.out.println("Hello World");
   }
 }
